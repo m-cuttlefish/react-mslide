@@ -3,6 +3,8 @@ node_modules/
 npm-debug.log
 .vscode/
 .happypack/
+.dist/
+
 
 # Windows image file caches
 Thumbs.db
