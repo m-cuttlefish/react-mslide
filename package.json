@@ -11,9 +11,11 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "peerDependencies": {
+    "react": "^15.6.1"
+  },
   "dependencies": {
     "classname": "0.0.0",
-    "react": "^15.6.1",
     "react-mhoc": "^1.0.2"
   },
   "devDependencies": {
